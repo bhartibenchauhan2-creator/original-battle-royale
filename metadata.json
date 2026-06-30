@@ -1,0 +1,8 @@
+{
+  "name": "Vanguard Tactics",
+  "description": "An ultra-realistic, highly immersive third-person tactical battle royale simulation and strategy game set in intense military environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
